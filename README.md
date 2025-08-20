@@ -38,5 +38,5 @@ O objetivo é praticar manipulação de DOM, eventos e consumo de API com `async
 
 ---
 
-Feito com 💜 por [Seu Nome]
+
 
